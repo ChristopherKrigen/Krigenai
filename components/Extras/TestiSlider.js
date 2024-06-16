@@ -23,7 +23,7 @@ const TestimonialsSlider = () => {
           />
           <div className="flex flex-col gap-16">
             <p className="italic font-semibold text-xl">
-              “Krigen.ai automated aspects of my business that I never thought could be automated. I've also saved a significant amount of money on outsourced work.”
+              “Krigen.ai automated aspects of my business that I never thought could be automated. I have also saved a significant amount of money on outsourced work.”
             </p>
             <div className="flex justify-between">
               <div>
@@ -54,7 +54,7 @@ const TestimonialsSlider = () => {
           />
           <div className="flex flex-col gap-16">
             <p className="italic font-semibold text-xl">
-              “Automating all my business operations with this software has been a game changer. It's user-friendly and incredibly effective.”
+              “Automating all my business operations with this software has been a game changer. It is user-friendly and incredibly effective.”
             </p>
             <div className="flex justify-between">
               <div>
@@ -85,7 +85,7 @@ const TestimonialsSlider = () => {
           />
           <div className="flex flex-col gap-16">
             <p className="italic font-semibold text-xl">
-              “The team at Krigen.ai has greatly streamlined how we operate. Their communication was top-notch and we're very satisfied!”
+              “The team at Krigen.ai has greatly streamlined how we operate. Their communication was top-notch and we are very satisfied!”
             </p>
             <div className="flex justify-between">
               <div>
