@@ -35,7 +35,7 @@ const Footer = () => {
                 </li>
                 <li>/</li>
                 <li className="hover:text-blue-500">
-                  <Link href="https://calendar.krigen.ai/" target="_blank">Contact Us</Link>
+                  <Link href="https://krigen.ai/strategy-session" target="_blank">Contact Us</Link>
                 </li>
               </ul>
             </li>
